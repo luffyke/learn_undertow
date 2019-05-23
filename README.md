@@ -1,4 +1,5 @@
 ## 深入浅出Undertow
+> undertow版本2.0。20.Final，JDK版本1.8.0_144
 
 ### 官网
 [Undertow](http://undertow.io/)
@@ -6,7 +7,7 @@
 ### 内容
 1. 基础
 - 1.1 Undertow简介
-- 1.2 web容器
+- 1.2 web服务器
 - 1.3 servlet容器和servlet规范
 
 2. 实战
