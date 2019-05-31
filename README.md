@@ -7,8 +7,8 @@
 ### 内容
 1. 基础
 - 1.1 [Undertow简介](./1-基础/1.1-Undertow简介.md)
-- 1.2 web服务器
-- 1.3 servlet容器和servlet规范
+- 1.2 [web服务器](./1-基础/1.2-web服务器.md)
+- 1.3 [Servlet基础](./1-基础/1.3-servlet基础.md)
 
 2. 实战
 - 2.1 使用undertow
