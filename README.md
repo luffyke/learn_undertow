@@ -11,7 +11,7 @@
 - 1.3 [Servlet基础](./1-基础/1.3-Servlet基础.md)
 
 2. 架构
-- 2.1 XNIO基础
+- 2.1 [XNIO基础](./2-架构/2.1-XNIO基础.md)
 - 2.2 Undertow架构
 - 2.3 Listeners
 - 2.4 Handlers
