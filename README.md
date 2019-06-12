@@ -1,5 +1,5 @@
 ## 深入浅出Undertow
-> undertow版本2.0.20.Final，JDK版本1.8.0_144
+> undertow版本2.0.21.Final，JDK版本1.8.0_144
 
 ### 官网
 [Undertow](http://undertow.io/)
